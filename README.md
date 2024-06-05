@@ -3,6 +3,7 @@
 
 ### Links
 
+- Link to slides: https://docs.google.com/presentation/d/1cLTbkbeUtTqzkiZTElGTofMJi38Pt_dJGHYK2hYt5yk/edit?usp=sharing
 - Creating a notebook using JupyterLite: https://jupyter.org/try-jupyter/lab/
 - The sandbox version of the Zenodo data repository: https://sandbox.zenodo.org/
 - Binder, a free service to make repositories interactive: https://mybinder.org/
