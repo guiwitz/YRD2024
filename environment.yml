@@ -1,0 +1,6 @@
+name: oeschger
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scikit-image>0.21.0
