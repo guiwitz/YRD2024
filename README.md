@@ -1,4 +1,6 @@
 [![DOI](https://sandbox.zenodo.org/badge/810259037.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.68544)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/YRD2024/HEAD)
+
 
 # Oeschger Center Young Researchers Meeting 2024
 ## Tools for open science and reproducibility
